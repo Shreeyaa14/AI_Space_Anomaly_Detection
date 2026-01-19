@@ -1,4 +1,4 @@
-# AI_Space_Anomaly_Detection
+# AI-based Space Situational Awareness (SSA) System
 AI-based Space Situational Awareness (SSA) system for real-time orbital monitoring, anomaly detection, and trajectory prediction. It uses LSTM, Kalman Filters, HMMs, and reinforcement learning to enable autonomous collision avoidance with improved accuracy and efficiency.
 
 This project proposes an AI-driven SSA framework that enables real-time anomaly detection, trajectory prediction, and collision avoidance through advanced machine learning techniques. The system continuously monitors key orbital parameters such as rotation rate, angular velocity, trajectory patterns, axis tilt, and motion dynamics using multi-sensor data fusion.
